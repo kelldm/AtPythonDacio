@@ -201,7 +201,7 @@ def main():
     """
     Função principal que coordena todo o processo de leitura, limpeza e exportação de dados de jogos de consoles.
     """
-    print('>>Importando e tratando dados...<<')
+    print('>>IMPORTANDO DADOS...ESPERE UM MINUTO...<<')
     
     
     #loop nos itens do objeto urls.
